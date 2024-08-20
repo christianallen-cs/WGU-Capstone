@@ -1,0 +1,1 @@
+Machine learning model that uses cosine similarity to return a user five movie recommendations based off their movie rating history. Developed in Python, the model trains itself based of the available dataset of over fifty thousand movies, and one hundred thousand user ratings. 
